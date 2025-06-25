@@ -3,3 +3,4 @@ Emoji
 TYpe options
 Colours
 Vibrants
+video call 
